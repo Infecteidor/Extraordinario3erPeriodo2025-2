@@ -1,0 +1,1 @@
+El proyecto del examen extraordinario se realizo dentro de la carpeta del proyecto 10, habia intentado subir antes solo la carpeta del proyecto 10 pero me daba error y no se visualizaba el contenido, solo logre que el contenido se viera subiendo el repositorio completo 
